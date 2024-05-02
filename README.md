@@ -7,7 +7,7 @@ I'm currently pursuing my B.COM  at Delhi University. My interests revolve aroun
 
 **📚 Skills**
 
-I am learning and progressiv.
+I am learning and progressive.
 Programming Languages: JavaScript 
 Technologies/Frameworks: React
 Soft Skills: Effective Commuter 

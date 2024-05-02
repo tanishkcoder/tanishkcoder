@@ -1,16 +1,22 @@
-### Hi there 👋
+Welcome to my GitHub profile! I'm Tanishk, a student passionate about coding, learning new technologies, and building exciting projects.
 
-<!--
-**tanishkcoder/tanishkcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 About Me
+**
+I'm currently pursuing my B.COM  at Delhi University. My interests revolve around coding , and I'm always eager to expand my knowledge and skills.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📚 Skills**
+
+I am learning and progressiv.
+Programming Languages: JavaScript 
+Technologies/Frameworks: React
+Soft Skills: Effective Commuter 
+
+**📫 Get in Touch**
+
+I'm open to collaboration and always excited to connect with fellow students and developers. Feel free to shoot me an email at tanishq.payer@gmail.com
+
+Let's learn and code together! 💻📝
+
+
+

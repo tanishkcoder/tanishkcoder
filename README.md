@@ -1,7 +1,7 @@
 Welcome to my GitHub profile! I'm Tanishk, a student passionate about coding, learning new technologies, and building exciting projects.
 
-**🎓 About Me
-**
+**🎓 About Me**
+
 I'm currently pursuing my B.COM  at Delhi University. My interests revolve around coding , and I'm always eager to expand my knowledge and skills.
 
 
